@@ -1,8 +1,10 @@
 # Evently
 This all-in-one application allows users to create an account, securely login, view recreational events, register, pay using Square and manage their account.
 # Live Link
-Dummy accounts to use: (mtest@gmail.com, cathy@yahoo.com... Security123 as passwords for both)
 [Visit on Heroku](https://evently2020.herokuapp.com/)
+
+Dummy accounts to use: (mtest@gmail.com, cathy@yahoo.com... Security123 as passwords for both)
+
 
 # Running Locally
 - First run <code>npm install</code> to install of the node modules
