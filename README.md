@@ -3,7 +3,7 @@ This all-in-one application allows users to create an account, securely login, v
 # Live Link
 [Visit on Heroku](https://evently2020.herokuapp.com/)
 
-Dummy accounts to use: (mtest@gmail.com, cathy@yahoo.com... Security123 as passwords for both)
+Dummy account to use: (cathy@yahoo.com... Security123 as passwords for both)
 
 
 # Running Locally
